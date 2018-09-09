@@ -1,0 +1,6 @@
+name: OneSleep
+main: com.onesleep.terzain.OneSleep
+version: 1.0
+api-version: 1.13
+description: Simple plugin to allow one player to sleep for everyone!
+author: [Terzain]
